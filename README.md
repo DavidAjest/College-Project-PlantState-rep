@@ -38,12 +38,7 @@ This project was developed as part of our **BSc in Information Systems** by **Da
 
 ---
 
-## 📸 Screenshots  
-| Home Page | Classification Results | Data Reports |
-|-----------|--------------------|--------------------|
-| ![Home](https://via.placeholder.com/300) | ![Results](https://via.placeholder.com/300) | ![Reports](https://via.placeholder.com/300) |
 
----
 
 ## 🚀 Installation & Setup  
 
